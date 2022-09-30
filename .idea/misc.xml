@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_covid_prediction.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_details.xml" value="0.2" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_fetch_covid_user.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_fetched_data_details.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_get_map_location.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_query.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_reset_password.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_show_on_map.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/activity_track_person.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/covid_person_sample_layout.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/reset_pop.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/layout/sample_layout.xml" value="0.19010416666666666" />
+        <entry key="..\:/CSE3200/app/src/main/res/menu/option_menu.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

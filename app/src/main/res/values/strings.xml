@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CSE 3200</string>
+    <string name="title_activity_show_on_map">ShowOnMap</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name : Wakil Mahmud"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/nameTextViewId"></TextView>
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Age : 25"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ageTextViewId"></TextView>
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Country : Dhaka"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/countryTextViewId"></TextView>
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email : ABC@gmail.com"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/emailTextViewId"></TextView>
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Latitude : 23.5332"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/latTextViewId"></TextView>
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Longitude : 35.3224"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/lngTextViewId"></TextView>
+
+</LinearLayout>

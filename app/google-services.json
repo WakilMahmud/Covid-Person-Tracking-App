@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121244072953",
+    "project_id": "covid-person-tracking",
+    "storage_bucket": "covid-person-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121244072953:android:56c3495a32dbc4e3699b28",
+        "android_client_info": {
+          "package_name": "com.example.cse3200"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121244072953-9o8pniii4d94b8pq5vlqo0thi0230eo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBKc4LDfInGOBAF0_D89J4v4uhJjZcszA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121244072953-9o8pniii4d94b8pq5vlqo0thi0230eo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
